@@ -1,2 +1,2 @@
 # AI
-Tugas Project
+Tugas Project Kecerdasan Buatan
