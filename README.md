@@ -4,3 +4,6 @@
 # About AI
 Kecerdasan buatan atau Artificial Intelligence (AI) adalah simulasi dari kecerdasan yang dimiliki oleh manusia yang dimodelkan di dalam mesin dan diprogram agar bisa berpikir seperti halnya manusia.
 
+# ANGGOTA
+1. Farid Agung Setyawan
+2. Rafli Anugerah Wibowo
